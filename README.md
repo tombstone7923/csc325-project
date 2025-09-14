@@ -31,3 +31,4 @@ Program and Hardware
 - GitHub repository for collaborative development
 
 Meeting Times
+- After class on tuesdays and thursdays in person
